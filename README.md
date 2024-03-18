@@ -6,7 +6,19 @@
   -npx tailwindcss init
   -in config add in contents
 - Header
+- Rounting of app
 - Login form
+- Sign up form
+- Form validation
+- useRef Hook
+- Firebase setup
+- Deploy our app to production
+- Create sign up user account
+- Implemnet Sign In user api
+- Created Redux store with userSlice
+- Implemented Sign out
+- update profile
+- Fetch
 
 # Features
 
