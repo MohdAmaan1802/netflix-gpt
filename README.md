@@ -39,6 +39,10 @@
 - TMBD Image CDN URL
 - Made the browse page amazing with tailwindcss
 - usePopularMovies Custom hook
+- GPT Search page
+- GPT Search bar
+- Multi-language feature in our app
+- Integrate GPT APIS
 
 # Features
 
