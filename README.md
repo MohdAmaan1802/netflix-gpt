@@ -69,3 +69,7 @@
 - netflixgpt
   - Search bar
   - Movie Suggestions
+
+# Deployed URL
+
+- netflixgpt-edae2.web.app
